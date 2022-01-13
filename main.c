@@ -2,7 +2,7 @@
 
 int main() {
     printf("Swiecie okrutny witaj!\n");
-    int x=8;
-    printf("%d",x-5);
+    int x=77778;
+    printf("%d",x-51);
     return 0;
 }
